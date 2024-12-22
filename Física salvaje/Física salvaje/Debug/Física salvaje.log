@@ -1,0 +1,12 @@
+﻿  Física salvaje.cpp
+C:\SFML\actividades mavi unidad 6\Física salvaje\Física salvaje\Física salvaje.cpp(93,89): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\SFML\actividades mavi unidad 6\Física salvaje\Física salvaje\Física salvaje.cpp(93,89): warning C4244:         with
+C:\SFML\actividades mavi unidad 6\Física salvaje\Física salvaje\Física salvaje.cpp(93,89): warning C4244:         [
+C:\SFML\actividades mavi unidad 6\Física salvaje\Física salvaje\Física salvaje.cpp(93,89): warning C4244:             T=float
+C:\SFML\actividades mavi unidad 6\Física salvaje\Física salvaje\Física salvaje.cpp(93,89): warning C4244:         ]
+C:\SFML\actividades mavi unidad 6\Física salvaje\Física salvaje\Física salvaje.cpp(93,68): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\SFML\actividades mavi unidad 6\Física salvaje\Física salvaje\Física salvaje.cpp(93,68): warning C4244:         with
+C:\SFML\actividades mavi unidad 6\Física salvaje\Física salvaje\Física salvaje.cpp(93,68): warning C4244:         [
+C:\SFML\actividades mavi unidad 6\Física salvaje\Física salvaje\Física salvaje.cpp(93,68): warning C4244:             T=float
+C:\SFML\actividades mavi unidad 6\Física salvaje\Física salvaje\Física salvaje.cpp(93,68): warning C4244:         ]
+  Física salvaje.vcxproj -> C:\SFML\actividades mavi unidad 6\Física salvaje\Debug\Física salvaje.exe
