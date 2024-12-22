@@ -1,0 +1,12 @@
+﻿  Espacio.cpp
+C:\SFML\actividades mavi unidad 6\Espacio\Espacio\Espacio.cpp(88,79): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\SFML\actividades mavi unidad 6\Espacio\Espacio\Espacio.cpp(88,79): warning C4244:         with
+C:\SFML\actividades mavi unidad 6\Espacio\Espacio\Espacio.cpp(88,79): warning C4244:         [
+C:\SFML\actividades mavi unidad 6\Espacio\Espacio\Espacio.cpp(88,79): warning C4244:             T=unsigned int
+C:\SFML\actividades mavi unidad 6\Espacio\Espacio\Espacio.cpp(88,79): warning C4244:         ]
+C:\SFML\actividades mavi unidad 6\Espacio\Espacio\Espacio.cpp(90,93): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\SFML\actividades mavi unidad 6\Espacio\Espacio\Espacio.cpp(90,93): warning C4244:         with
+C:\SFML\actividades mavi unidad 6\Espacio\Espacio\Espacio.cpp(90,93): warning C4244:         [
+C:\SFML\actividades mavi unidad 6\Espacio\Espacio\Espacio.cpp(90,93): warning C4244:             T=unsigned int
+C:\SFML\actividades mavi unidad 6\Espacio\Espacio\Espacio.cpp(90,93): warning C4244:         ]
+  Espacio.vcxproj -> C:\SFML\actividades mavi unidad 6\Espacio\Debug\Espacio.exe
