@@ -1,0 +1,13 @@
+﻿  Rebotar.cpp
+C:\SFML\actividades mavi unidad 6\Rebotar\Rebotar\Rebotar.cpp(28,34): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\SFML\actividades mavi unidad 6\Rebotar\Rebotar\Rebotar.cpp(28,34): warning C4244:         with
+C:\SFML\actividades mavi unidad 6\Rebotar\Rebotar\Rebotar.cpp(28,34): warning C4244:         [
+C:\SFML\actividades mavi unidad 6\Rebotar\Rebotar\Rebotar.cpp(28,34): warning C4244:             T=unsigned int
+C:\SFML\actividades mavi unidad 6\Rebotar\Rebotar\Rebotar.cpp(28,34): warning C4244:         ]
+C:\SFML\actividades mavi unidad 6\Rebotar\Rebotar\Rebotar.cpp(52,63): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\SFML\actividades mavi unidad 6\Rebotar\Rebotar\Rebotar.cpp(52,63): warning C4244:         with
+C:\SFML\actividades mavi unidad 6\Rebotar\Rebotar\Rebotar.cpp(52,63): warning C4244:         [
+C:\SFML\actividades mavi unidad 6\Rebotar\Rebotar\Rebotar.cpp(52,63): warning C4244:             T=unsigned int
+C:\SFML\actividades mavi unidad 6\Rebotar\Rebotar\Rebotar.cpp(52,63): warning C4244:         ]
+C:\SFML\actividades mavi unidad 6\Rebotar\Rebotar\Rebotar.cpp(39,46): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+  Rebotar.vcxproj -> C:\SFML\actividades mavi unidad 6\Rebotar\Debug\Rebotar.exe
