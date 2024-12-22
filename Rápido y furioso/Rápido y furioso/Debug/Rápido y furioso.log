@@ -1,0 +1,7 @@
+﻿  rapido.cpp
+C:\SFML\actividades mavi unidad 6\Rápido y furioso\Rápido y furioso\rapido.cpp(32,75): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\SFML\actividades mavi unidad 6\Rápido y furioso\Rápido y furioso\rapido.cpp(32,24): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\SFML\actividades mavi unidad 6\Rápido y furioso\Rápido y furioso\rapido.cpp(48,83): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\SFML\actividades mavi unidad 6\Rápido y furioso\Rápido y furioso\rapido.cpp(48,32): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\SFML\actividades mavi unidad 6\Rápido y furioso\Rápido y furioso\rapido.cpp(40,46): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+  Rápido y furioso.vcxproj -> C:\SFML\actividades mavi unidad 6\Rápido y furioso\Debug\Rápido y furioso.exe
